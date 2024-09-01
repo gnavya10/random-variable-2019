@@ -6,12 +6,11 @@ Maual Testing for Quafox Website with testing cases , test plans , Bug report , 
 ## Project Type
 Manual Testing | JavaScript | 
 
-## Deplolyed App
-tutorialsninja.com/demo/index.php?route=common/home
-
 ## Directory Structure
 - quiz.js
-- 
+- Quafox Project Test Cases - QF_TSTC.pdf
+- Test case Execution Report - Project Quafox.pdf
+- Test plan project for Quafox.docx.pdf
 
 ## Video Walkthrough of the project
 https://docs.google.com/document/d/1DE8WpCSHYNzm_ZvWOyJeC4RDtfnR7jqqUiNJQKkrthA/edit?usp=sharing
